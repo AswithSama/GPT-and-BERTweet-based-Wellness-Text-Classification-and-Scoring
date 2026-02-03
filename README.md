@@ -1,5 +1,4 @@
 # LLM Assisted Reflection to Wellness-NLP-Pipeline-Weak-Labeling-with-GPT-and-BERTweet-Fine-Tuning
-I led and architected the below project end-to-end as a reflection-based NLP system for Uplifty’s Human Growth Index, designing the methodology, building the dataset labeling pipeline, implementing preprocessing and model training workflows, and coordinating a 5-member team to support large-scale data generation, experimentation, and model evaluation.
 
 # 📖 Introduction
 
@@ -216,5 +215,7 @@ Wellness Score calculation
 Score = (0.75×0.35) + (0.70×0.25) − (0.60×0.20) − (0.55×0.10) − (0.50×0.10)
 Score ≈ 0.21
 This way, positive behaviors increase the score while non-physical stress factors reduce it, giving a balanced and realistic Human Wellness Score.
+# ✨ Author
 
+I led and architected the below project end-to-end as a reflection-based NLP system for Uplifty’s Human Growth Index, designing the methodology, building the dataset labeling pipeline, implementing preprocessing and model training workflows, and coordinating a 5-member team to support large-scale data generation, experimentation, and model evaluation.
 
